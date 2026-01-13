@@ -6,10 +6,11 @@ Desktop scoring tool for the Intervention P3-73-2.9 of CAP Strategic Plan 2023�
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ---
 ## 📌 Overview
-**Application-for-Calculating-Scores** is a desktop application designed to calculate the official scoring for Greek farmers applying to **Intervention P3-73-2.9 — Investments for the modernization and construction of greenhouses and accessible plant production shelters** of the **Strategic Plan (SP) of the Common Agricultural Policy (CAP) of Greece 2023–2027**.
+
+Application-for-Calculating-Scores is a desktop application designed to calculate the official scoring for Greek farmers applying to **Intervention P3-73-2.9 — Investments for the modernization and construction of greenhouses and accessible plant production shelters** of the **Strategic Plan (SP) of the Common Agricultural Policy (CAP) of Greece 2023–2027**.
 The app functions as an interactive questionnaire.  
 Once all required inputs are provided, the app automatically calculates the user's final score.
-👉 According to the official Call, an applicant is **eligible** to participate if their score is **at least 30 points**.
+👉 According to the official Call, an applicant is **eligible** to participate if their score is **at least 30 points.**
 ---
 ## ⭐ Key Features
 - ✔ **Automated scoring** based on the official regulatory framework  
@@ -84,4 +85,5 @@ This project is licensed under the **MIT License**
 ### 📝 Note
 **Although this README is written in English, the application itself — including all scoring criteria and regulatory documents — is in Greek.  
 This is because the tool is intended for Greek farmers and follows the official Greek Call for Intervention P3-73-2 and its amendments.**
+
 
